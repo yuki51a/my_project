@@ -23,6 +23,9 @@ SNS等で宣伝し、多くの方にサービスを利用していただきま�
 フロントエンド:HTML/CSS/JavaScript
 バックエンド:RubyonRails
 データベース:PostgreSQL
+デプロイサービスとしてはHerokuかGCPを使う予定
+Gemやライブラリ:devise、kaminari、acts-as-taggable-on、pundit、rspec-rails
+factory_bot_rails、faker
 API:スポーツデータAPI
 <MVPリリース時に作っていたいもの>
 ユーザー登録機能、診断機能、チーム・球場紹介ページ
